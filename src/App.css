@@ -1,0 +1,25 @@
+body {
+  background-image: url('./../public/bg.png');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  margin: 0;
+  font-family: Arial, sans-serif;
+  height: 50vh;
+ 
+  color: white;
+}
+
+.cont{
+  margin-top: 10%;
+  margin-left: 35%;
+  /* margin-top: 20%; */
+  /* margin-right: 30%; */
+
+}
+.boxx{
+  height: 500px;
+  width: 500px;
+}
+
+
